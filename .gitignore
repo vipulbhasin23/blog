@@ -1,0 +1,5 @@
+# Hugo build artifacts
+.hugo_build.lock
+# we don't want these in git and have netlify create them later
+public/
+resources/
