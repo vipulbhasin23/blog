@@ -9,6 +9,8 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "G-CJFB1MEE4L"
+
 [pagination]
     pagerSize = 4
 
