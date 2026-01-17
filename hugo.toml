@@ -1,4 +1,4 @@
-baseURL = 'https://draggeontech.online/'
+baseURL = 'https://vipulbhasin.netlify.app/'
 languageCode = 'en-us'
 title = "Vipul Bhasin's blog"
 theme = 'archie'
