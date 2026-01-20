@@ -1,5 +1,5 @@
 +++
-date = '2026-01-17T14:40:54+05:30'
+date = '2026-01-18T14:40:54+05:30'
 draft = false
 title = 'The World of Go'
 +++
